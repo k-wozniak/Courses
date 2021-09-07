@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+main
+
+# Studio Code
+*.code-workspace
