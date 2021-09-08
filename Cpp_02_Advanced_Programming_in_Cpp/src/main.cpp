@@ -5,6 +5,7 @@
 #include "week_12.h"
 #include "week_13.h"
 #include "week_14.h"
+#include "week_15.h"
 
 using namespace std;
 
@@ -64,7 +65,7 @@ int main()
     // printf("%i\n", Week13::Max_Abs_In_List(list, 6));
 
     // double list[] = {19, 2, 20, 1, -5, 18};
-    // printf("%3.2f\n", Week13::Avg_Of_List(list, 6));
+    // printf("%3.2f\n", Week13::Avg_Of_List(li4st, 6));
 
     // **************************************************************
     // Week 14
@@ -74,6 +75,17 @@ int main()
     // Week14::Reverse_Name_Printing();
 
     // cout << Week14::Get_First_Word("dolphin", "cat", "tiger") << endl;
-
+    
+    // **************************************************************
+    // Week 15
+    // **************************************************************
+    // Week15::Calculate_BMI(56, 1.75);
+    // Week15::Shop();
+    // Week15::Lond_Distance_Call_Cost();
+    // Week15::String_Slicing();
+    // Week15::Character_Classification();
+    // cout << Week15::Return_First("the quick brown fox") << endl;
+    cout << Week15::Remove_Fist("the quick brown fox") << endl;
+  
     return 0;
 }
