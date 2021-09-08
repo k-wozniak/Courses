@@ -6,6 +6,6 @@ Course is divided into weeks 7 weeks.
 
 ## Topics
 - Week 09&10 - Functions
-- Week 11&12 - Algorithm Analysis
-- Week 13&14 - Arrays
-- Week 15&16 - Strings
+- Week 11    - Algorithm Analysis
+- Week 12&13 - Arrays
+- Week 14&15 - Strings
