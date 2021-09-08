@@ -3,6 +3,7 @@
 #include "week_9.h"
 #include "week_10.h"
 #include "week_12.h"
+#include "week_13.h"
 
 using namespace std;
 
@@ -50,7 +51,19 @@ int main()
     // **************************************************************
     // Week 12
     // **************************************************************
-    Week12::Get_Grades_Above_Average();
+    //Week12::Get_Grades_Above_Average();
     
+    // **************************************************************
+    // Week 13
+    // **************************************************************
+    // int list[] = {-19, -3, 20, -1, 5, -25};
+    // printf("%i\n", Week13::Max_In_List(list, 6));
+
+    // int list[] = {-19, -3, 20, -1, 5, -25};
+    // printf("%i\n", Week13::Max_Abs_In_List(list, 6));
+
+    // double list[] = {19, 2, 20, 1, -5, 18};
+    // printf("%3.2f\n", Week13::Avg_Of_List(list, 6));
+
     return 0;
 }
