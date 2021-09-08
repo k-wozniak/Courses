@@ -10,7 +10,6 @@ class Week11
         // Function checks if the number is prime
         // Time complexity O(sqrt(N))
         static bool Is_Prime(unsigned int number);
-        
 };
 
 #endif

@@ -2,6 +2,7 @@
 
 #include "week_9.h"
 #include "week_10.h"
+#include "week_12.h"
 
 using namespace std;
 
@@ -45,6 +46,11 @@ int main()
 
     // double weigth = 50.0, height = 1.58;
     // printf("BMI is: %3.2f \n", Week10::Calculate_BMI(weigth, height));
+
+    // **************************************************************
+    // Week 12
+    // **************************************************************
+    Week12::Get_Grades_Above_Average();
     
     return 0;
 }
