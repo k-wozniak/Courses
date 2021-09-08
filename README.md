@@ -5,3 +5,4 @@ Repository containing a projects completed during courses.
 
 ### C++
 - **Introduction to Programming in C++** - https://learning.edx.org/course/course-v1:NYUx+CPP.PRG.1+3T2020/home
+- **Advanced Programming in C++** - https://learning.edx.org/course/course-v1:NYUx+CPP.PRG.2+3T2020/home
