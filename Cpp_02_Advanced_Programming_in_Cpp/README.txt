@@ -1,0 +1,11 @@
+# Advanced Programming in C++
+
+The following directory contains code developed during the completion of the "Advanced Programming in C++" Course avaliable on edX (learning.edx.org)
+
+Course is divided into weeks 7 weeks.
+
+## Topics
+- Week 09&10 - Functions
+- Week 11&12 - Algorithm Analysis
+- Week 13&14 - Arrays
+- Week 15&16 - Strings
