@@ -4,6 +4,7 @@
 #include "week_10.h"
 #include "week_12.h"
 #include "week_13.h"
+#include "week_14.h"
 
 using namespace std;
 
@@ -64,6 +65,15 @@ int main()
 
     // double list[] = {19, 2, 20, 1, -5, 18};
     // printf("%3.2f\n", Week13::Avg_Of_List(list, 6));
+
+    // **************************************************************
+    // Week 14
+    // **************************************************************
+    // Week14::Name_Printing();
+    
+    // Week14::Reverse_Name_Printing();
+
+    // cout << Week14::Get_First_Word("dolphin", "cat", "tiger") << endl;
 
     return 0;
 }
